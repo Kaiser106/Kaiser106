@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27,28&height=220&section=header&text=MUHAMMET&fontSize=70&fontColor=89b4fa&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27,28&height=220&section=header&text=KAISER&fontSize=70&fontColor=89b4fa&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
