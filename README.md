@@ -1,3 +1,19 @@
+<h1 align="center">👋 Merhaba, Ben Muhammet</h1>
+<h3 align="center">Backend Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F5C2E7&center=true&vcenter=true&width=435&lines=Java+%26+Spring+Boot+Developer;Veritaban%C4%B1+%26+Mimari+Tutkunu;Clean+Code+Tak%C4%B1nt%C4%B1l%C4%B1" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 Hakkımda
+
+```yaml
+Konum: Türkiye
+Rol: Backend Developer
+Odak Noktası: Enterprise Java, Spring Framework, Mikroservisler
+Şu Anki Hedef: Yüksek performanslı API'ler ve algoritmik çözümler geliştirmek
 # 👋 Merhaba, Ben [Adınız]!
 
 **Backend Developer** | **Java & Spring Boot Tutkunu** | **Açık Kaynak Meraklısı**
