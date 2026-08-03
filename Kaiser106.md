@@ -1,27 +1,80 @@
-<h1 align="center">Hi 👋, I'm Muhammet</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiser106&label=Profile%20views&color=0e75b6&style=flat" alt="kaiser106" /> </p>
+<!-- Kapsül Header (Dalgalı Animasyonlu Karşılama) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Merhaba!%20Ben%20Muhammet%20(Kaiser)%20%F0%9F%91%8B&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&theme=dracula" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiser106" alt="kaiser106" /></a> </p>
+<h3 align="center">Backend Developer | Java & Spring Boot</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Sosyal Medya İkonları -->
+<div align="center">
+  <a href="https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SENIN_KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammetozturk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetozturk0" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammetozt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammetozt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaiser0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaiser0" height="30" width="40" /></a>
-</p>
+### 👨‍💻 Hakkımda
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🔭 Şu anda **Java, Spring Boot ve Katmanlı Mimari (Layered Architecture)** üzerine projeler (Sipariş/Menü Yönetim API'leri vb.) geliştiriyorum.
+- 🌱 **MongoDB** gibi veritabanları ile loglama ve veri yönetimi üzerine kendimi geliştiriyorum.
+- ⚡ Boş zamanlarımda **LeetCode** üzerinde veri yapıları ve algoritma soruları çözüyor, LeetCodeAnswers repomda paylaşıyorum.
+- 🐧 Geliştirme ortamı olarak esnekliği için **Windows 11** ve **Linux** (Zorin OS) dağıtımlarını kullanıyorum.
+- 🎮 Kodlamaya ara verdiğimde donanım optimizasyonları ile uğraşmayı ve PC oyunları oynamayı severim.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiser106&show_icons=true&locale=en&layout=compact" alt="kaiser106" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiser106&show_icons=true&locale=en" alt="kaiser106" /></p>
+### 🛠️ Teknolojiler & Araçlar
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiser106&" alt="kaiser106" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" title="Windows 11" />
+</div>
 
+<br/>
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake (Katkı Yılanı)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/SENIN_KULLANICI_ADIN/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+### 👾 Pacman Aktivite Animasyonu
+
+<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/SENIN_KULLANICI_ADIN/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/SENIN_KULLANICI_ADIN/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/SENIN_KULLANICI_ADIN/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+</div>
+
+---
+
+<!-- Ziyaretçi Sayacı -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SENIN_KULLANICI_ADIN.SENIN_KULLANICI_ADIN&" alt="Profile Views" />
+</div>
