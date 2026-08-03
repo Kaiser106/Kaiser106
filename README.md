@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaiser106&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="175" alt="Top Languages" />
 </div>
 
-### 👾 Galaga Aktivite Animasyonu
+### Aktivite Animasyonu
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaiser106/Kaiser106/pacman-output/galaga-contribution-graph-dark.svg">
